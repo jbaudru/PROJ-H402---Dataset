@@ -1,4 +1,4 @@
-# PROJ-H402 - Dataset
+# PROJ-H402 - Physarum Polycephalum Algorithm in Road Networks
 ## Introduction
 Venturing into the interdisciplinary realm of biology, graph theory, and artificial life, this student project delves into the intriguing world of physarum polycephalum, commonly known as slime mould. This unique organism, initially classified as a fungus, has garnered attention for its adaptive and intelligent behavior in exploring and optimizing its environment. Tying together concepts from graph theory, artificial life, and mathematical modeling, the project aims to implement a mathematical model inspired by the behavior of physarum polycephalum.
 
